@@ -23,7 +23,7 @@ This tutorial walks you through the process of:
 
 The data used in this tutorial is the "Traffic Crashes - Crashes" dataset, which is publicly available. You can download the latest version of this dataset from the City of Chicago's data portal:
 
-[Download Traffic Crashes - Crashes Dataset](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data)
+[Download Traffic Crashes - Crashes Dataset]([https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data](https://data.cityofchicago.org/d/85ca-t3if))
 
 ### How to get the data:
 1. Visit the link above.
