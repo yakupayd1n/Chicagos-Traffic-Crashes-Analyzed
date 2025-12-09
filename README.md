@@ -1,4 +1,4 @@
-# Traffic Crash Data Analysis with Pandas, Python, Google Colab, and Matplotlib
+# Traffic Crash Data Analysis with Pandas, Python, Matplotlib, and Google Colab
 
 This repository provides a step-by-step tutorial on performing data analysis using a real-world dataset of traffic crashes. We'll leverage the power of Python's pandas library for data manipulation, Matplotlib for visualization, and Google Colab for an interactive coding environment.
 
